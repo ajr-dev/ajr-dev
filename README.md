@@ -8,12 +8,11 @@
 <details>
 <summary>More details</summary>
 
-<ul>
-    <li>Currently being a Svelte junky</li>
-    <li>I love tailwindcss</li>
-    <li>Firebase? Supabase</li>
-    <li>Oh, and mongodb too</li>
-</ul>
++ Currently being a Svelte junky
++ I love tailwindcss
++ Firebase? Supabase
++ Oh, and mongodb too
+
 </details>
 </div>
 </div>
