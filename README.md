@@ -12,5 +12,3 @@
 
 </details>
 </div>
-
-<!-- Image deletion URL: https://ibb.co/vdhgH6F/ffd6147160c9c755f121cecfe997403a -->
