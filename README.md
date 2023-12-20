@@ -9,10 +9,10 @@
 <summary>More details</summary>
 
 <ul>
-    <il>Currently being a Svelte junky</il>
-    <il>I love tailwindcss</il>
-    <il>Firebase? Supabase</il>
-    <il>Oh, and mongodb too</il>
+    <li>Currently being a Svelte junky</li>
+    <li>I love tailwindcss</li>
+    <li>Firebase? Supabase</li>
+    <li>Oh, and mongodb too</li>
 </ul>
 </details>
 </div>
