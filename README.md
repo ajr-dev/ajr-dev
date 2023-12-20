@@ -13,7 +13,7 @@
 + Firebase? Supabase
 + Oh, and mongodb too
 
-Find me on discord: @mrajr :)
+- Find me on discord: @mrajr :)
 
 </details>
 </div>
