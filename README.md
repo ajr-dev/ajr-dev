@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/kDJkxs7/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/kDJkxs7/output-gif.gif">
+    <img alt="GIFOS" src="https://i.ibb.co/kDJkxs7/output-gif.gif">
+</picture>
 
-<!--
-**ajr-dev/ajr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on Wed Dec 20 11:56:23 PM SAST 2023</i></sub>
 
-Here are some ideas to get you started:
+<details>
+<summary>More details</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+</div>
+
+<!-- Image deletion URL: https://ibb.co/vdhgH6F/ffd6147160c9c755f121cecfe997403a -->
